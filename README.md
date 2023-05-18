@@ -1,2 +1,5 @@
 # Dashboards
-Dashboards of Sales overview, for Executive Leadership and HR department created with Looker Studio using AdventureWorks sample database.
+Dashboards for Executive Leadership, Human Resources and Sales department created with Looker Studio using AdventureWorks sample database.
+
+**Executive Leadership**
+[Executive](Executive_Dashboard.pdf)
